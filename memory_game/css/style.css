@@ -65,6 +65,27 @@ p {
 	font-size: 18px;
 }
 
+button {
+	height: 50px;
+	width:100px;
+	margin: 10px;
+	font-family: Raleway, sans-serif;
+	letter-spacing: 1px;
+	font-weight: 600;
+	font-size: 20px;
+	background-color: #F15B31;
+	color: #FFFFFF;
+	text-transform:uppercase;
+	/* border: 1px solid black; */
+	border-radius: 100;
+	visibility: hidden;
+
+}
+
+.scoreBoard {
+	margin: 20px 0px -20px 0px;
+}
+
 /* Footer Section */
 
 footer {
